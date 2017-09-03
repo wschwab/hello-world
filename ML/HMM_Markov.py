@@ -1,4 +1,4 @@
-# HMM Markov algorithm
+# This is a HMM Markov algorithm
 
 def fwd_bkw(observations, states, start_prob, trans_prob, emm_prob, end_st):
 
